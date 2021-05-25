@@ -72,5 +72,35 @@
         </Component>
       </SubComponents>
     </Container>
+    <Container class="javax.swing.JPanel" name="jPanel2">
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout" value="org.netbeans.modules.form.compat2.layouts.DesignBorderLayout$BorderConstraintsDescription">
+          <BorderConstraints direction="Center"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignFlowLayout"/>
+      <SubComponents>
+        <Component class="com.toedter.calendar.JCalendar" name="jCalendar1">
+        </Component>
+        <Component class="com.toedter.calendar.JDateChooser" name="jDateChooser1">
+        </Component>
+        <Component class="com.toedter.calendar.JMonthChooser" name="jMonthChooser1">
+        </Component>
+        <Component class="com.toedter.components.JLocaleChooser" name="jLocaleChooser1">
+        </Component>
+        <Component class="com.toedter.components.JLocaleChooser" name="jLocaleChooser2">
+        </Component>
+        <Component class="com.toedter.components.JSpinField" name="jSpinField1">
+        </Component>
+        <Component class="javax.swing.JFormattedTextField" name="jFormattedTextField1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jFormattedTextField1"/>
+          </Properties>
+        </Component>
+        <Component class="com.toedter.calendar.JYearChooser" name="jYearChooser1">
+        </Component>
+      </SubComponents>
+    </Container>
   </SubComponents>
 </Form>

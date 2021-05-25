@@ -24,6 +24,8 @@ public class Telefone implements Serializable, TemplateLista{
     @ManyToOne(fetch = FetchType.LAZY)
     private Contato contato;
     
+    
+    
 
     public Integer getId() {
         return id;

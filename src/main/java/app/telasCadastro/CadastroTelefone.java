@@ -80,7 +80,7 @@ public class CadastroTelefone extends TemplatePanelCadastro {
                 .addComponent(jLabel1)
                 .addGap(5, 5, 5)
                 .addComponent(jcContato, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(22, Short.MAX_VALUE))
+                .addContainerGap(99, Short.MAX_VALUE))
         );
     }// </editor-fold>//GEN-END:initComponents
 
